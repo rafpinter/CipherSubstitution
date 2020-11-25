@@ -17,11 +17,17 @@ qwertyuiopasdfghjklzxcvbnm
 
 ## Examples
 
+
 Plaintext: foo
+
 Ciphertext: ygg
 
+
 Plaintext: bar
+
 Ciphertext: wqk
 
+
 Plaintext: baz
+
 Ciphertext: wqm
