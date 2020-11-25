@@ -17,14 +17,17 @@ qwertyuiopasdfghjklzxcvbnm
 
 ## Examples
 
+```bash
 Plaintext: foo
-
 Ciphertext: ygg
+```
 
+```bash
 Plaintext: bar
-
 Ciphertext: wqk
+```
 
+```bash
 Plaintext: baz
-
 Ciphertext: wqm
+```
